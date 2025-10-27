@@ -9,11 +9,10 @@ export default function Navbar({ isDarkMode, toggleTheme }) {
           : "bg-gradient-to-r from-blue-500 to-blue-700 text-white"
       }`}
     >
-      {/* Logo / Title */}
       <h1
         className={`text-2xl md:text-3xl font-extrabold tracking-wide transition-colors duration-300`}
       >
-        Developer Dashboard
+        Developer Dashboard.
       </h1>
 
       {/* Theme Toggle Button */}
