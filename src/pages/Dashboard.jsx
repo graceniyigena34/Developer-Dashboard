@@ -1,6 +1,6 @@
 import React from 'react';
-import GithubCard from "../components/GithubCard";
 import WeatherCard from "../components/WeatherCard";
+import GithubCard from '../components/GitHubCard';
 
 function Dashboard(props) {
   return (
