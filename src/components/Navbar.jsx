@@ -12,7 +12,7 @@ export default function Navbar({ isDarkMode, toggleTheme }) {
       <h1
         className={`text-2xl md:text-3xl font-extrabold tracking-wide transition-colors duration-300`}
       >
-        Developer Dashboard....
+        Developer Dashboard
       </h1>
 
       {/* Theme Toggle Button */}
