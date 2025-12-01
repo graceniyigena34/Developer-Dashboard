@@ -17,4 +17,19 @@ when you click on dark mode we get ![alt text](<Screenshot 2025-10-27 162844.png
 - Responsive layout — works on desktop and mobile  
 - Dashboard “stat cards” showing key metrics (users, sales, active projects)  
 - Chart component for visualizing data  
-- Clean and minimal design, easy to customize  
+- Clean and minimal design, easy to customize
+
+  ## Project Structure
+/src  
+  /components  
+    Sidebar.js  
+    Navbar.js  
+    StatsCards.js  
+    Chart.js  
+  App.js  
+  index.css  
+tailwind.config.js  
+package.json  
+README.md  
+
+
