@@ -32,4 +32,16 @@ tailwind.config.js
 package.json  
 README.md  
 
+## Future Plans
+
+Add authentication and user roles
+
+Integrate real backend API for dynamic data
+
+Add more chart types (bar, pie, etc.)
+
+Implement dark/light mode toggle
+
+Expand admin features and CRUD pages  
+
 
