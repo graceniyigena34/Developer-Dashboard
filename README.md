@@ -44,4 +44,6 @@ Implement dark/light mode toggle
 
 Expand admin features and CRUD pages  
 
+The dashboard is fully responsive, works on desktop and mobile, and supports both dark mode and light mode, allowing users to switch themes for better accessibility and comfort. Designed for scalability, it can be extended with authentication, API integration, admin features, and additional charts.
+
 
